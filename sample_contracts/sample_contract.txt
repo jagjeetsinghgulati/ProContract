@@ -1,0 +1,13 @@
+This Agreement is made between Alpha Services Private Limited and Beta Consumer Products Limited.
+
+1. Scope of Services
+Supplier shall deliver implementation services as per the statement of work.
+
+2. Payment Terms
+Client shall pay invoice amounts within 30 days from receipt.
+
+3. Liability
+Each party's aggregate liability is limited to fees paid in the previous 12 months.
+
+4. Termination
+Either party may terminate for material breach with 30 days cure period.
